@@ -8,10 +8,10 @@
  "module": "Setup", 
  "name": "welcome-to-erpnext", 
  "owner": "Administrator", 
- "page_name": "welcome-to-Accu360", 
+ "page_name": "welcome-to-ERPNext", 
  "roles": [], 
  "script": null, 
  "standard": "Yes", 
  "style": null, 
- "title": "Welcome to ERPNext"
+ "title": "Welcome to Accu360"
 }
