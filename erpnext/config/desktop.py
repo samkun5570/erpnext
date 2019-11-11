@@ -188,14 +188,14 @@ def get_data():
 		},
 
 		{
-			"module_name": "Help",
-			"category": "Administration",
-			"label": _("Learn"),
-			"color": "#FF888B",
-			"icon": "octicon octicon-device-camera-video",
-			"type": "module",
-			"is_help": True,
-			"description": "Explore Help Articles and Videos."
+			"module_name": "",
+			"category": "",
+			"label": _(""),
+			"color": "",
+			"icon": "",
+			"type": "",
+			"is_help": False,
+			"description": ""
 		},
 		{
 			"module_name": 'Marketplace',
